@@ -69,3 +69,5 @@ footer{text-align:center;color:var(--mute);font-size:.85rem;padding:20px 22px 50
 .js .rv.on{opacity:1;transform:none}
 @media(max-width:640px){.bar a{padding:8px 11px;font-size:.7rem}.proj .in{padding:26px 22px}.proj .num{font-size:4.5rem}section{padding:64px 18px}}
 @media(prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}.js .rv{opacity:1;transform:none}}
+
+.av{width:132px;height:132px;border-radius:50%;object-fit:cover;border:2px solid #c9a45f;box-shadow:0 0 0 6px rgba(201,164,95,.12);margin-bottom:22px;animation:up .8s both}
